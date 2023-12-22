@@ -1,7 +1,3 @@
-![image](https://github.com/devopness/.github/assets/1943318/8af4ae7f-f9b9-427c-8737-7b707b6a754c)
-
-## Hi there, welcome to Devopness 👋
-
 ## About Devopness
 `Devopness` aims to drastically simplify the way we manage cloud applications and multi cloud infrastructure in a secure and productive way.
 
